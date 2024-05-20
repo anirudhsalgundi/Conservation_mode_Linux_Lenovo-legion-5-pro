@@ -1,4 +1,4 @@
-# Conservation-mode-Linux-for-Lenovo-legion-5-pro
+# Use conservation mode Linux for Lenovo legion 5 pro
 A script that provides you to toggle conservation mode while using linux in Lenovo Legion 5 pro
 
 In windows, Legion software enables us to toggle conservation mode (to charge uptill 60%) which improves battery life if you keep your laptop plugged in. However, if you are using linux, you can use this script to toggle the conservation mode.
